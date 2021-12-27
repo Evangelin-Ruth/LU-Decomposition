@@ -21,6 +21,7 @@ Developed by:
 RegisterNumber: 
 */
 ```
+```
 import numpy as np
 import scipy
 from scipy.linalg import lu
@@ -28,7 +29,7 @@ A=eval(input())
 P,L,U=lu(A)
 print (L)
 print(U)
-```
+
 import numpy as np
 from scipy.linalg import lu_factor, lu_solve
 A = np.array(eval(input()))
