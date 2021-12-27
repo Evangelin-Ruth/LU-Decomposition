@@ -62,8 +62,9 @@ print(x)
 ```
 
 ## Output:
+###1.To Find L and U matrices with LU Decomposition
 ![L and U matrix 1](https://user-images.githubusercontent.com/94219798/147453932-9ebfcbb0-fa66-4fc0-a691-527e47662df1.JPG)
-
+###2.To Finf X matrix with LU Decomposition
 ![L and U matrix 2](https://user-images.githubusercontent.com/94219798/147453957-a57212da-c74c-4b2a-b9da-753e1738d664.JPG)
 
 
